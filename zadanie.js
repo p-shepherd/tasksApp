@@ -124,3 +124,5 @@ function completeTask() {
 
 displayMenu();
 getUserChoice();
+
+///zadanie 2
