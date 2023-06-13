@@ -124,5 +124,3 @@ function completeTask() {
 
 displayMenu();
 getUserChoice();
-
-let zmienna = "pusta";  // zmienna z wartoscia pusta
